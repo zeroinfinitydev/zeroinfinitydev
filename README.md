@@ -7,7 +7,7 @@ I Enjoy web development and discord bot development mainly. My journey as a deve
 
 ## Staff:
 
-I am a senior moderator & Bot dev for [mcpvp.club](https://discord.com/invite/cWUgYP7fvE). In my first month working there I did over 500 tickets. I have been working there since.
+I am a senior moderator & Bot dev for [mcpvp.club](https://discord.com/invite/cWUgYP7fvE). In my first month working there I did over 500 tickets.
 
 I am a developer & network moderator for https://mctiers.com
 
